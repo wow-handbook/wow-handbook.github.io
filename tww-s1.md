@@ -42,6 +42,8 @@
 * [【花落猫德】11.0B测7c艾拉-回想之城~](https://www.bilibili.com/video/BV1Fi421v7uH/) by 花落哞（猫德）
 * [合集·11.0b测防骑](https://space.bilibili.com/25097105/channel/collectiondetail?sid=3307751) by Touchingface（防骑）
 * [生存猎的B测大米测试](https://space.bilibili.com/1650405309/search/video?keyword=B%E6%B5%8B) by 倚楼赏明月Moon（生存猎）
+* [各种坦克的大米测试](https://space.bilibili.com/18868923/search/video?keyword=11%20%E5%9C%B0%E5%BF%83%E4%B9%8B%E6%88%98) by Noobfq（血DK、熊德）
+* [魔兽世界 11.0 地心之战B测 8层格瑞姆巴托 （残暴鲁莽暴怒）奶德视角](https://www.bilibili.com/video/BV14xg7eLEPi) by 舌头打字（奶德）
 
 
 ## 职业
@@ -51,12 +53,6 @@
 * B测时期资料
 * [【花落猫德】11.0利爪德鲁伊浅析~](https://www.bilibili.com/video/BV1gF4m1c7eo/) by 花落哞
 * [【花落猫德】11.0B测天赋浅析~2024.6.14](https://www.bilibili.com/video/BV1LS411P7XP/) by 花落哞
-* []() by 
-* []() by 
-* []() by 
-* []() by 
-* []() by 
-* 
 
 ### 武僧
 
@@ -87,6 +83,11 @@
 
 * B测时期资料
 * [魔兽世界11.0B测DKT灵打大改后介绍](https://www.bilibili.com/video/BV1Gb421J7zt/) by Mariatheresa-
+
+### 唤魔师
+
+* B测时期资料
+* [合集·魔兽世界教程攻略](https://space.bilibili.com/282103331/channel/collectiondetail?sid=3084786) by 超级无敌奶德
 
 
 ## 专业
