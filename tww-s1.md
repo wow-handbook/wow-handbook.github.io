@@ -53,6 +53,7 @@
 * B测时期资料
 * [【花落猫德】11.0利爪德鲁伊浅析~](https://www.bilibili.com/video/BV1gF4m1c7eo/) by 花落哞
 * [【花落猫德】11.0B测天赋浅析~2024.6.14](https://www.bilibili.com/video/BV1LS411P7XP/) by 花落哞
+* [11.0 鸟德 从入门到增辉 — 不完全指北](https://www.bilibili.com/read/cv36284995/) by 阿揪揪咕
 
 ### 武僧
 
