@@ -54,6 +54,7 @@
 * [【花落猫德】11.0利爪德鲁伊浅析~](https://www.bilibili.com/video/BV1gF4m1c7eo/) by 花落哞
 * [【花落猫德】11.0B测天赋浅析~2024.6.14](https://www.bilibili.com/video/BV1LS411P7XP/) by 花落哞
 * [11.0 鸟德 从入门到增辉 — 不完全指北](https://www.bilibili.com/read/cv36284995/) by 阿揪揪咕
+* [11.0 鸟德 简易教学 （包含前夕）](https://bilibili.com/video/BV1kuv5edEDm) by 阿揪揪咕
 
 ### 武僧
 
@@ -65,6 +66,7 @@
 
 * B测时期资料
 * [测试服伤害对比 奥法VS火法 当前版本奥法T0数值太夸张 火法数值中庸无亮点](https://www.bilibili.com/video/BV16W421R7ab) by 子槃-
+* 【魔兽世界】11.0BETA奥法伤害循环V7 by 凛冽寒风5866 [日怒奥单体](https://www.bilibili.com/video/BV1Yr421M7NY/)、[嗜法奥单体](https://www.bilibili.com/video/BV1Yr421M7NY?p=2)、[日怒奥AOE](https://www.bilibili.com/video/BV1Yr421M7NY?p=3)、[嗜法奥AOE](https://www.bilibili.com/video/BV1Yr421M7NY?p=4)
 
 ### 猎人
 
@@ -84,11 +86,22 @@
 
 * B测时期资料
 * [魔兽世界11.0B测DKT灵打大改后介绍](https://www.bilibili.com/video/BV1Gb421J7zt/) by Mariatheresa-
+* [11.0 玩法前瞻-印记冰 “上限高下限低的赌狗天赋”](https://www.bilibili.com/video/BV1dE4m1R7zp) by 络叶织秋
 
 ### 唤魔师
 
 * B测时期资料
 * [合集·魔兽世界教程攻略](https://space.bilibili.com/282103331/channel/collectiondetail?sid=3084786) by 超级无敌奶德
+
+### 战士
+
+* B测时期资料
+* [魔兽世界11.0 B测 巨像武器战天赋手法分享，没看错天神又下凡了！](https://www.bilibili.com/video/BV1nm42137T7/) by 原来是MAYDAY啊
+
+### 圣骑士
+
+* B测时期资料
+* [11.0奶骑大秘境攻略教学（天赋、手法；治疗横向对比及缺陷）](https://www.bilibili.com/video/BV1rZ421N7Ao/) by 野顾丶丶
 
 
 ## 专业
